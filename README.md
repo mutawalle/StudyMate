@@ -2,6 +2,11 @@
 
 Sebuah solusi karya **Kelompok 5 (StudyMate) Tugas Milestone SPARTA** terhadap kesulitan akan terjadinya interaksi multiarah pada pembelajaran di era pandemi.
 
+![Study-Mate-Landing](https://user-images.githubusercontent.com/89324014/191535977-8b42e601-6bc1-44e4-a43c-be92274bbe7a.png)
+![Study-Mate-Home](https://user-images.githubusercontent.com/89324014/191536024-72399fcb-86ef-4836-a4b7-64e8686f456e.png)
+![Study-Mate-Chat](https://user-images.githubusercontent.com/89324014/191536046-c3e550cc-a841-4e75-bd69-0db112548354.png)
+
+
 ## Anggota Kelompok
 
 ```
